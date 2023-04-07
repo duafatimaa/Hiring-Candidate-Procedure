@@ -16,13 +16,14 @@ Task files are a way of organizing and tracking the progress of a project. By br
 ## Having 500 commits and proper GitHub know-how
 GitHub is a web-based platform for version control and collaboration that is commonly used by developers. Having proper GitHub know-how is important for developers, as it enables them to collaborate with others and manage their codebase effectively. Additionally, having 500 commits is a good indicator of a developer's experience and dedication to their work.
 
-Strategies for Hiring People
+## Strategies for Hiring People
 When hiring people, it's important to have a clear strategy in place to ensure that you find the right candidates for the job. Some strategies to consider include:
 
-Searching for people who are in the area and have an average salary of less than 15-25k.
-Looking for people who are cheap but can be worth it if they are trained.
-Offering unpaid internships to people who are not skillful but can be trained.
-Training interns until they have 500 commits and have learned everything.
-Offering a paid job after the internship to loyal and well-trained interns.
-Conclusion
+- Searching for people who are in the area and have an average salary of less than 15-25k.
+- Looking for people who are cheap but can be worth it if they are trained.
+- Offering unpaid internships to people who are not skillful but can be trained.
+- Training interns until they have 500 commits and have learned everything.
+- Offering a paid job after the internship to loyal and well-trained interns.
+
+## Conclusion
 Hiring the right people is essential for the success of any organization, and it's important to have a clear strategy in place when recruiting new talent. By considering the criteria for hiring developers, checking the difference between good and bad developer work, adding proper documentation and task files to the repository, and offering training and internships, organizations can find the right people for the job and help them grow into valuable members of the team.
